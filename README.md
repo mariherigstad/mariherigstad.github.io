@@ -1,2 +1,2 @@
-# mariherigstad.github.io
-Herigstad Lab.
+# Herigstad Lab
+
