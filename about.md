@@ -6,7 +6,7 @@ redirect_from: "/"
 
 <img src="/assets/mariherigstadportrait.jpg" alt="Mari Herigstad" align="middle" style="width: 250px;"/>
 
-I am Mari Herigstad.
+I am Mari Herigstad, a lecturer at Sheffield Hallam University.
 
 
 ## Contact me
@@ -16,4 +16,4 @@ Sheffield Hallam University
 
 Telephone: +44 (0)114 XXX
 
-Email: <XXX>
+Email: <m.herigstad@shu.ac.uk>
