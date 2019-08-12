@@ -1,0 +1,37 @@
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Mari Herigstad
+tagline:          'Physiology, Neuroscience'
+url:              https://alexfletcher.github.io
+shorturl:         mariherigstad.github.io
+
+author:
+  name:           'Mari Herigstad'
+  url:            https://mariherigstad.github.io
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           github.com/mariherigstad/mariherigstad.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about/'
+  PhD projects: '/phd_projects'
+  Research: '/research/'
+  Publications: '/publications/'
+  People: '/people/'
+
+# Allow URL Redirects: 
+#  * https://help.github.com/articles/redirects-on-github-pages
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
