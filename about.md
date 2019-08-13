@@ -14,5 +14,5 @@ Room 752 Owen, Dept of Biosciences and Chemistry, Sheffield Hallam University<br
 Telephone: +44 (0)114 2255236<br>
 Email: <m.herigstad@shu.ac.uk>
 
-Blog: www.mariherigstad.wordpress.com<br>
-Twitter: www.twitter.com/Dr_Mari
+Blog: <www.mariherigstad.wordpress.com><br>
+Twitter: <www.twitter.com/Dr_Mari>
