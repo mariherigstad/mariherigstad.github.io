@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PhD projects
+title: Students
 ---
 
-I am willing to supervise PhD projects in physiology and neuroscience, particularly related to vascular disease and enviromental stressors. Please email me if you are interested in a topic related to my research. You can also find a list of past PhD projects <a href="/people">here</a>. 
+I am keen to hear from prospective PhD students or research students interested in physiology, neuroscience and/or vascular disease, or with an interest in air pollution and carbon monoxide. Please email me if you are interested in a topic related to our <a href="/research">research</a>. 
