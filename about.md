@@ -3,7 +3,7 @@ layout: page
 title: About
 redirect_from: "/"
 ---
-The Herigstad Lab is based in the Department of Biosciences and Chemistry at Sheffield Hallam University. Primay research interests are the effects of carbon monoxide on human physiology and pathophysiology development, in particular as it relates to cerebral blood flow and function. 
+The Herigstad Lab is based in the Department of Biosciences and Chemistry at Sheffield Hallam University. Primary research interests are the effects of carbon monoxide on human physiology and pathophysiology development, in particular as it relates to cerebral blood flow and function. 
 
 ## Contact me
   
