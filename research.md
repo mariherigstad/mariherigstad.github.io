@@ -9,4 +9,6 @@ Our research uses imaging (MRI and ultrasound) to probe the impact of carbon mon
 
 We are also developing research to look at how carbon monoxide exposure impacts tissue function using tissue culture and early-stage development, morphology and expression of HIF1alpha using an avian model. 
 
+<p align="center">
 <img src="/assets/herigstad_research.jpg" alt="Research" align="middle" style="width: 450px;"/>
+</p>
