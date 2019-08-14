@@ -10,3 +10,6 @@ BSc and Erasmus students working on final year projects. Projects include invest
 Emmanuel Debrah worked on cerebral mechanisms of breathlessness and its reliefs, with a particular focus on the role of the insula. He completed his PhD in Clinical Respiratory Physiology at Oxford Brookes University in 2016.
 
 Anja Hayen worked on identifying brain mechanisms of dyspnoea in healthy volunteer models using functional magnetic resonance imaging. She completed her DPhil in Neuroscience at the University of Oxford in 2014. Anja now works as a senior scientist at P1Vital Ltd. 
+
+## Collaborations
+We work with the Moosavi lab at Oxford Brookes University on physiological and behavioural correlates of cigarette and e-cigarette smoking. We also work with Ingrid Herigstad, an Oslo-based interactive designer, to develop a patient/carer- centered system for drug management in cancer patients; the work draws upon the expertise of a wider group of UK and US-based medics as well as advice and informal support from Kreftforeningen (The Norwegian Cancer Society).
