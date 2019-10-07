@@ -12,4 +12,4 @@ Emmanuel Debrah worked on cerebral mechanisms of breathlessness and its reliefs,
 Anja Hayen worked on identifying brain mechanisms of dyspnoea in healthy volunteer models using functional magnetic resonance imaging. She completed her DPhil in Neuroscience at the University of Oxford in 2014. Anja now works as a senior scientist at P1Vital Ltd. 
 
 ## Collaborations
-We work with the Moosavi lab at Oxford Brookes University on physiological and behavioural correlates of cigarette and e-cigarette smoking. 
+We work with the Moosavi lab at Oxford Brookes University on physiological and behavioural correlates of cigarette and e-cigarette smoking. We also work with academics in the Biomedical Research Centre (BMRC) at Sheffield Hallam University to develop techniques for looking at carbon monoxide impact in cell monolayers and tissues.
