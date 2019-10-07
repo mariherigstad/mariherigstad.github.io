@@ -15,5 +15,5 @@ Telephone: +44 (0)114 2255236<br>
 Email: <m.herigstad@shu.ac.uk>
 
 Blog: <a href="https://mariherigstad.wordpress.com">www.mariherigstad.wordpress.com</a><br>
-Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a>
+Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
 Group leader website: <a href="www.mariherigstad.co.uk">www.mariherigstad.co.uk</a><br>
