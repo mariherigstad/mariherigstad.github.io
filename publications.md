@@ -4,6 +4,8 @@ title: Publications
 ---
 
 ## Papers
+Bendell, C, Moosavi, S & Herigstad, M (2019) Low-level carbon monoxide exposure affects BOLD fMRI. Journal of Cerebral Blood Flow & Metabolism. Doi: 10.1177/0271678X19887358
+
 Herigstad, M,  Faull  O,  Hayen  A,  Evans  E,  Hardinge  M,  Wiech  K  &  Pattinson  K  (2017)  Treating  breathlessness  via  the brain:  changes  in  brain  activity  over  a  course  of  pulmonary  rehabilitation. European  Respiratory  Journal, 50  (3) 1701029. 
 
 Paley, M., Reynolds, S., Ismail, N., Herigstad, M., Jarvis, D. & Griffiths, P. (2017) Wireless Accelerometer for Neonatal MRI Motion Artifact Correction. Technologies, 5(1), 6. 
@@ -38,7 +40,5 @@ Herigstad, M., Balanos, G. & Robbins, P.A. (2007) Can human cardiovascular regul
 
 Liu, C., Smith, T.G., Balanos, G.M., Brooks, J., Crosby, A., Herigstad, M., Dorrington, K.L. & Robbins, P.A. (2007) Lack of involvement of the autonomic nervous system in early ventilatory and pulmonary vascular acclimatization to hypoxia in humans. Journal of Physiology, 579: 215-225. 
 
-## Preprints
-Bendell, C., Moosavi, S. & Herigstad, M. Low-Level Carbon Monoxide Exposure Affects BOLD FMRI. Biorxiv.doi: 10.1101/141093 Under review at Journal of Cerebral Blood Flow and Metabolism
-
+## Preprints (not published elsewhere)
 Herigstad, M., Granados-Aparici, S., Pacey, A., Paley, M. & Reynolds, S. Imaging seminiferous tubules - a 9.4TMRI mouse model. Biorxiv. doi: 10.1101/155762 
