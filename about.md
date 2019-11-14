@@ -18,15 +18,13 @@ Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
 
 
 <table>
-  <p align="middle"> 
   <tr>
     <td><a href="https://mariherigstad.github.io/research/"><img src="/assets/lab_logo.jpg" alt="Herigstad Lab" align="middle" style="width: 200px;" /></a> </td>
     <td><a href="https://www.shu.ac.uk/research/specialisms/biomolecular-sciences-research-centre"><img src="/assets/BMRC_logo.jpg" alt="BMRC" align="middle" style="width: 200px;" /></a> </td>
   </tr>
-  </p>
 </table>
 
 
 ## Blog
-<p align="middle"> <a href="https://mariherigstad.wordpress.com"><img src="/assets/blog_banner.jpg" alt="Blog" align="middle" style="width: 90%;"/> </a> </p>
+<a href="https://mariherigstad.wordpress.com"><img src="/assets/blog_banner.jpg" alt="Blog" align="middle" style="width: 400px;"/> </a>
 <br>
