@@ -1,17 +1,16 @@
 ---
-layout: post
+layout: default
 title: News
 ---
 <br>
 
-## New paper out
-We have just released a paper titled "Low level carbon monoxide affects BOLD fMRI".
+<h1>{{ page.title }}</h1>
+<ul class="posts">
 
-The paper is in JCBFM
-
-## New study afoot
-We are just starting work on a developmental model of carbon monoxide exposure.
-
+	 {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	 {% endfor %}
+</ul>
 
 
 
