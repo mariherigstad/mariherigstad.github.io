@@ -6,12 +6,12 @@ permalink:        pretty
 
 # Setup
 title:            Herigstad Lab
-tagline:          'Physiology, Neuroscience'
+tagline:          Physiology, Neuroscience
 url:              https://mariherigstad.github.io
 shorturl:         mariherigstad.github.io
 
 author:
-  name:           'Physiology in an Air Polluted World'
+  name:           'Herigstad Lab'
   url:            https://mariherigstad.github.io
 
 paginate:         1
