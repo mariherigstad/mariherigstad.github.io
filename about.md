@@ -19,8 +19,8 @@ Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
 <p align="middle"> 
 <table>
   <tr>
-    <td><img src="/assets/lab_logo.jpg" alt="Herigstad Lab" align="middle" style="width: 150px;" /> </td>
-    <td> <img src="/assets/BMRC_logo.jpg" alt="BMRC" align="middle" style="width: 150px;" /> </td>
+    <td><img src="/assets/lab_logo.jpg" alt="Herigstad Lab" align="middle" style="width: 200px;" /> </td>
+    <td> <img src="/assets/BMRC_logo.jpg" alt="BMRC" align="middle" style="width: 200px;" /> </td>
   </tr>
 </table>
 </p>
