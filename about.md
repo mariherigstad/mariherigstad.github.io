@@ -16,9 +16,10 @@ Email: <m.herigstad@shu.ac.uk><br>
 Staff website: <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/mari-herigstad">Mari Herigstad</a><br>
 Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
 
-<p align="middle"> <img src="/assets/lab_logo.jpg" alt="Herigstad Lab" style="width: 45%;" /><img src="/assets/BMRC_logo.jpg" alt="BMRC" style="width: 45%;" /> </p>
+<p align="middle"> 
+  | <img src="/assets/lab_logo.jpg" alt="Herigstad Lab" style="width: 45%;" /> | <img src="/assets/BMRC_logo.jpg" alt="BMRC" style="width: 45%;" /> | 
+</p>
 
 ## Blog
-<p align="middle"> 
-| <a href="https://mariherigstad.wordpress.com"><img src="/assets/blog_banner.jpg" alt="Blog" align="middle" style="width: 90%;"/> | </a> | </p>
+<p align="middle"> <a href="https://mariherigstad.wordpress.com"><img src="/assets/blog_banner.jpg" alt="Blog" align="middle" style="width: 90%;"/> </a> </p>
 <br>
