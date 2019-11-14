@@ -17,7 +17,12 @@ Staff website: <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles
 Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
 
 <p align="middle"> 
-<table><tr><td><img src="/assets/lab_logo.jpg" alt="Herigstad Lab" style="width: 45%;" /> <img src="/assets/BMRC_logo.jpg" alt="BMRC" style="width: 45%;" /> </td></tr></table>
+<table>
+  <tr>
+    <td><img src="/assets/lab_logo.jpg" alt="Herigstad Lab" style="width: 45%;" /> </td>
+    <td> <img src="/assets/BMRC_logo.jpg" alt="BMRC" style="width: 45%;" /> </td>
+  </tr>
+</table>
 </p>
 
 ## Blog
