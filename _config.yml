@@ -6,7 +6,7 @@ permalink:        pretty
 
 # Setup
 title:            Herigstad Lab
-tagline:          Physiology, Neuroscience
+tagline:          Physiology in an Air Polluted World
 url:              https://mariherigstad.github.io
 shorturl:         mariherigstad.github.io
 
@@ -24,7 +24,6 @@ github:
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
-
   About: '/about/'
   Research: '/research/'
   Publications: '/publications/'
