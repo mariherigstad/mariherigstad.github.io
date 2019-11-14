@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New paper out: Low-level carbon monoxide exposure affects BOLD fMRI response"
+title: "New paper: Low-level carbon monoxide exposure affects BOLD fMRI response"
 date: 2019-11-14
 ---
 
