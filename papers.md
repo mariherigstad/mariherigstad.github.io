@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Papers
 ---
 
-## Papers
 Bendell, C, Moosavi, S & Herigstad, M (2019) Low-level carbon monoxide exposure affects BOLD fMRI. Journal of Cerebral Blood Flow & Metabolism. Doi: 10.1177/0271678X19887358
 
 Herigstad, M,  Faull  O,  Hayen  A,  Evans  E,  Hardinge  M,  Wiech  K  &  Pattinson  K  (2017)  Treating  breathlessness  via  the brain:  changes  in  brain  activity  over  a  course  of  pulmonary  rehabilitation. European  Respiratory  Journal, 50  (3) 1701029. 
