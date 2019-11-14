@@ -29,6 +29,7 @@ pages_list:
   Papers: '/papers/'
   People: '/people/'
   Study: '/study'
+  News: '/news'
 
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
