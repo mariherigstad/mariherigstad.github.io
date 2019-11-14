@@ -18,7 +18,6 @@ Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
 
 ## Blog
 <a href="https://mariherigstad.wordpress.com"><img src="/assets/blog_banner.jpg" alt="Blog" align="middle" style="width: 410px;"/> </a>
-<br>
 
 <table>
   <tr>
