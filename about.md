@@ -19,4 +19,6 @@ Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
 <p align="middle"> <img src="/assets/lab_logo.jpg" alt="Herigstad Lab" style="width: 150px;" /><img src="/assets/BMRC_logo.jpg" alt="BMRC" style="width: 150px;" /> </p>
 
 ## Blog
-<a href="https://mariherigstad.wordpress.com"><img src="/assets/blog_banner.jpg" alt="Blog" align="middle" style="width: 600px;"/> </a><br>
+<p align="middle"> 
+<a href="https://mariherigstad.wordpress.com"><img src="/assets/blog_banner.jpg" alt="Blog" align="middle" style="width: 600px;"/> </a></p>
+<br>
