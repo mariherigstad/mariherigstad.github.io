@@ -20,7 +20,7 @@ Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
 <table>
   <tr>
     <td><img src="/assets/lab_logo.jpg" alt="Herigstad Lab" align="middle" style="width: 200px;" /> </td>
-    <td> <img src="/assets/BMRC_logo.jpg" alt="BMRC" align="middle" style="width: 200px;" /> </td>
+    <td><a href="https://www.shu.ac.uk/research/specialisms/biomolecular-sciences-research-centre"><img src="/assets/BMRC_logo.jpg" alt="BMRC" align="middle" style="width: 200px;" /></a> </td>
   </tr>
 </table>
 </p>
