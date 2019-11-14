@@ -16,14 +16,16 @@ Email: <m.herigstad@shu.ac.uk><br>
 Staff website: <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/mari-herigstad">Mari Herigstad</a><br>
 Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
 
-<p align="middle"> 
+
 <table>
+  <p align="middle"> 
   <tr>
     <td><img src="/assets/lab_logo.jpg" alt="Herigstad Lab" align="middle" style="width: 200px;" /> </td>
     <td><a href="https://www.shu.ac.uk/research/specialisms/biomolecular-sciences-research-centre"><img src="/assets/BMRC_logo.jpg" alt="BMRC" align="middle" style="width: 200px;" /></a> </td>
   </tr>
+  </p>
 </table>
-</p>
+
 
 ## Blog
 <p align="middle"> <a href="https://mariherigstad.wordpress.com"><img src="/assets/blog_banner.jpg" alt="Blog" align="middle" style="width: 90%;"/> </a> </p>
