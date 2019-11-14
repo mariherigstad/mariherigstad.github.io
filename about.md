@@ -15,7 +15,7 @@ Telephone: +44 (0)114 2255236<br>
 Email: <m.herigstad@shu.ac.uk><br>
 Staff website: <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/mari-herigstad">Mari Herigstad</a><br>
 
-<img src="/assets/lab_logo.jpg" alt="Herigstad Lab" align="middle" style="width: 20px;"/>&nbsp;<img src="/assets/BMRC_logo.jpg" alt="BMRC" align="middle" style="width: 50px;"/>&nbsp;<img src="/assets/SHU_logo.jpg" alt="Sheffield Hallam University" align="middle" style="width: 50px;"/>  
+<img src="/assets/lab_logo.jpg" alt="Herigstad Lab" align="middle" style="width: 100px;"/> <img src="/assets/BMRC_logo.jpg" alt="BMRC" align="middle" style="width: 100px;"/> <img src="/assets/SHU_logo.jpg" alt="Sheffield Hallam University" align="middle" style="width: 100px;"/>  
 
 Blog: <a href="https://mariherigstad.wordpress.com">www.mariherigstad.wordpress.com</a><br>
 Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
