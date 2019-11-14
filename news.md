@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: post
 title: News
 ---
-This is our news page
+## News
+
+
+
 
 
