@@ -10,8 +10,9 @@ The Herigstad Lab is based in the Department of Biosciences and Chemistry at She
 <img src="/assets/mariherigstadportrait.jpg" alt="Mari Herigstad" align="middle" style="width: 200px;"/> 
 
 <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/mari-herigstad">Dr Mari Herigstad</a><br>
-Room 752 Owen Building, Sheffield Hallam University<br>
-Telephone: +44 (0)114 2255236<br>
+Room 752 Owen Building, <br>
+Sheffield Hallam University<br>
+Phone: +44 (0) 114 225 5236<br>
 Email: <m.herigstad@shu.ac.uk><br>
 
 <table>
