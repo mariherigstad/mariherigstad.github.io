@@ -5,13 +5,13 @@ markdown:         kramdown
 permalink:        pretty
 
 # Setup
-title:            Physiology in an Air Polluted World
+title:            Herigstad Lab
 tagline:          'Physiology, Neuroscience'
 url:              https://mariherigstad.github.io
 shorturl:         mariherigstad.github.io
 
 author:
-  name:           'Herigstad Lab'
+  name:           'Physiology in and Air Polluted World'
   url:            https://mariherigstad.github.io
 
 paginate:         1
