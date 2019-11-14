@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New paper out: Low level carbon monoxide affects BOLD fMRI"
+title: "New paper out: Low-level carbon monoxide affects BOLD fMRI"
 date: 2019-11-14
 ---
 
