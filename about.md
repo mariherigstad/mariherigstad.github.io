@@ -25,5 +25,5 @@ Personal Blog: <a href="https://mariherigstad.wordpress.com">Breathing, Blood an
 </table>
 
 ## Funded by
-<a href="http://www.gassafetytrust.org/"><img src="/assets/gst.png" alt="Gas Safety Trust" align="middle" style="width: 200px;" /></a>
+<a href="http://www.gassafetytrust.org/"><img src="/assets/gst.png" alt="Gas Safety Trust" align="middle" style="width: 100px;" /></a>
  
