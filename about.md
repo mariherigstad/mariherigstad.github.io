@@ -15,9 +15,7 @@ Sheffield Hallam University<br>
 Phone: +44 (0) 114 225 5236<br>
 Email: <m.herigstad@shu.ac.uk><br>
 Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
-
-## Blog
-<a href="https://mariherigstad.wordpress.com"><img src="/assets/blog_banner.jpg" alt="Blog" align="middle" style="width: 410px;"/> </a>
+Personal Blog: <a href="https://mariherigstad.wordpress.com">Breathing, Blood and Brains</a>
 
 <table>
   <tr>
@@ -25,3 +23,7 @@ Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
     <td><a href="https://www.shu.ac.uk/research/specialisms/biomolecular-sciences-research-centre"><img src="/assets/BMRC_logo.jpg" alt="BMRC" align="middle" style="width: 200px;" /></a> </td>
   </tr>
 </table>
+
+## Funded by
+<a href="http://www.gassafetytrust.org/"><img src="/assets/gst.png" alt="Gas Safety Trust" align="middle" style="width: 200px;" /></a>
+ 
