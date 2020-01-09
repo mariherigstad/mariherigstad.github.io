@@ -12,6 +12,6 @@ title: News
 {% endfor %}
 </ul>
 
-## Blog
+# Blog
 <a href="https://mariherigstad.wordpress.com"><img src="/assets/blog_banner.jpg" alt="Blog" align="middle" style="width: 410px;"/> </a>
 
