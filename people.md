@@ -4,7 +4,7 @@ title: People
 ---
 
 ## Current students
-BSc and Erasmus students working on final year projects. Projects include investigating the impact of carbon monoxide on an avian model of development, developing an exposure chamber for carbon monoxide exposure of tissues and cells, and studying the effect of carbon monoxide on markers of cerebrovascular disease in a population of smokers (the latter in collaboration with Oxford Brookes University).
+BSc and Erasmus students working on final year projects. Projects include investigating the impact of carbon monoxide on an avian model of development, developing an exposure chamber for carbon monoxide exposure of tissues and cells, analysing the impact of carbon monoxide on reaction time, autonomic control and cognitive processing, and studying the effect of carbon monoxide on markers of cerebrovascular disease in a population of smokers (the latter in collaboration with Oxford Brookes University).
 
 ## Past PhD students
 Emmanuel Debrah worked on cerebral mechanisms of breathlessness and its reliefs, with a particular focus on the role of the insula. He completed his PhD in Clinical Respiratory Physiology at Oxford Brookes University in 2016.
