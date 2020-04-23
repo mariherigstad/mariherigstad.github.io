@@ -3,6 +3,9 @@ layout: page
 title: People
 ---
 
+## Collaborations
+We work with the Moosavi lab at Oxford Brookes University on cardio-, cerebrovascular and behavioural impact of cigarette and e-cigarette smoking, and with the Robbins lab at the University of Oxford on respiratory correlates of the same. We also work with <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/prachi-stafford">Dr Prachi Stafford</a> at Sheffield Hallam University to develop techniques for looking at carbon monoxide impact in cell monolayers and tissues, and colleagues in the Biomolecular Research Centre (<a href="https://www.shu.ac.uk/research/specialisms/biomolecular-sciences-research-centre">BMRC</a>) at Sheffield Hallam University on select smaller projects.
+
 ## Current students
 BSc and Erasmus students working on final year projects. Projects include investigating the impact of carbon monoxide on an avian model of development, developing an exposure chamber for carbon monoxide exposure of tissues and cells, analysing the impact of carbon monoxide on reaction time, autonomic control and cognitive processing, and studying the effect of carbon monoxide on markers of cerebrovascular disease in a population of smokers (the latter in collaboration with Oxford Brookes University).
 
@@ -11,5 +14,3 @@ Emmanuel Debrah worked on cerebral mechanisms of breathlessness and its reliefs,
 
 Anja Hayen worked on identifying brain mechanisms of dyspnoea in healthy volunteer models using functional magnetic resonance imaging. She completed her DPhil in Neuroscience at the University of Oxford in 2014. Anja now works as a senior scientist at P1Vital Ltd. 
 
-## Collaborations
-We work with the Moosavi lab at Oxford Brookes University on cardio-, cerebrovascular and behavioural impact of cigarette and e-cigarette smoking, and with the Robbins lab at the University of Oxford on respiratory correlates of the same. We also work with colleagues in the Biomolecular Research Centre (<a href="https://www.shu.ac.uk/research/specialisms/biomolecular-sciences-research-centre">BMRC</a>) at Sheffield Hallam University, collaborating closely with <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/prachi-stafford">Dr Prachi Stafford</a>, to develop techniques for looking at carbon monoxide impact in cell monolayers and tissues. 
