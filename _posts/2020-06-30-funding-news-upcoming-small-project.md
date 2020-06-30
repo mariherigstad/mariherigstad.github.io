@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Funding news: new small project starting soon"
+title: "Funding news: new project starting soon"
 date: 2020-06-30
 ---
 
