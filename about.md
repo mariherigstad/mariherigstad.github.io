@@ -16,7 +16,7 @@ Phone: +44 (0) 114 225 5236<br>
 Email: <m.herigstad@shu.ac.uk><br>
 Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
 Personal Blog: <a href="https://mariherigstad.wordpress.com">Breathing, Blood and Brains</a><br>
-Mari Herigstad on <a href="http://scholar.google.co.uk/citations?user=JAD2n04AAAAJ&hl=en">google scholar</a>, <a href="https://www.researchgate.net/profile/Mari_Herigstad">researchgate</a> and <a href="https://publons.com/author/1287147/mari-herigstad#profile">publons.</a>
+Other accounts: <a href="http://scholar.google.co.uk/citations?user=JAD2n04AAAAJ&hl=en">google scholar</a>, <a href="https://www.researchgate.net/profile/Mari_Herigstad">researchgate</a> and <a href="https://publons.com/author/1287147/mari-herigstad#profile">publons.</a>
 
 <table>
   <tr>
