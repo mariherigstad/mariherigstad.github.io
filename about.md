@@ -11,7 +11,7 @@ The Herigstad Lab is based in the Department of Biosciences and Chemistry at She
 
 <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/mari-herigstad">Dr Mari Herigstad</a><br>
 Address: Owen Building, Sheffield Hallam University<br>
-Contact: +44 (0)114 225 5236 (phone) and <m.herigstad@shu.ac.uk> (email)<br>
+Contact: <m.herigstad@shu.ac.uk>, +44 (0)114 225 5236<br>
 Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
 Personal Blog: <a href="https://mariherigstad.wordpress.com">Breathing, Blood and Brains</a><br>
 Other accounts: <a href="http://scholar.google.co.uk/citations?user=JAD2n04AAAAJ&hl=en">google scholar</a>, <a href="https://www.researchgate.net/profile/Mari_Herigstad">researchgate</a> and <a href="https://publons.com/author/1287147/mari-herigstad#profile">publons.</a>
