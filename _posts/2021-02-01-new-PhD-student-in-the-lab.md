@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "News: new PhD candidate"
-date: 2020-01-02
+date: 2021-02-01
 ---
 Our new PhD student, Lucie Wilson, have started her work in the lab this week. She'll be working on low-level carbon monoxide impact on the human brain for her thesis. 
 She is working with a supervisor team consisting of Dr Mari Herigstad, Dr Caroline Dalton (reader in Neuroscience and Genetics, Sheffield Hallam University) and Paul Armitage (lecturer in MRI Physics, The University of Sheffield). 
