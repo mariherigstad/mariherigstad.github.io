@@ -42,6 +42,4 @@ Liu, C., Smith, T.G., Balanos, G.M., Brooks, J., Crosby, A., Herigstad, M., Dorr
 
 ## Preprints (not published elsewhere)
 
-Finnegan, S., Faull, O., Harmer, C., Herigstad, M., Rahman, N., Reinecke, A. & Pattinson, K. Neuropsychological stratification of Chronic Obstructive Pulmonary Disease: building affect into clinically relevant neurobiomarkers of breathlessness. Medrxiv. doi: 10.1101/19006684. Under review at European Respiratory Journal
-
 Herigstad, M., Granados-Aparici, S., Pacey, A., Paley, M. & Reynolds, S. Imaging seminiferous tubules - a 9.4TMRI mouse model. Biorxiv. doi: 10.1101/155762 
