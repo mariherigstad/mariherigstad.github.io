@@ -2,6 +2,7 @@
 layout: page
 title: Papers
 ---
+Finnegan, S., Faull, O., Harmer, C., Herigstad, M., Rahman, N., Reinecke, A. & Pattinson, K. (2021) Neuropsychological stratification of Chronic Obstructive Pulmonary Disease: building affect into clinically relevant neurobiomarkers of breathlessness. Accepted at European Respiratory Journal
 
 Bendell, C., Moosavi, S. & Herigstad, M. (2019) Low-level carbon monoxide exposure affects BOLD fMRI. Journal of Cerebral Blood Flow & Metabolism. Doi: 10.1177/0271678X19887358
 
