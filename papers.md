@@ -2,9 +2,9 @@
 layout: page
 title: Papers
 ---
-Finnegan, S., Faull, O., Harmer, C., Herigstad, M., Rahman, N., Reinecke, A. & Pattinson, K. (2021) Neuropsychological stratification of Chronic Obstructive Pulmonary Disease: building affect into clinically relevant neurobiomarkers of breathlessness. Accepted at European Respiratory Journal
+Finnegan, S., Faull, O., Harmer, C., Herigstad, M., Rahman, N., Reinecke, A. & Pattinson, K. (2021) Breathlessness in COPD: linking symptom clusters with brain activity. Accepted at European Respiratory Journal.
 
-Bendell, C., Moosavi, S. & Herigstad, M. (2019) Low-level carbon monoxide exposure affects BOLD fMRI. Journal of Cerebral Blood Flow & Metabolism. Doi: 10.1177/0271678X19887358
+Bendell, C., Moosavi, S. & Herigstad, M. (2019) Low-level carbon monoxide exposure affects BOLD fMRI. Journal of Cerebral Blood Flow & Metabolism. 40 (11), 2215-2224.
 
 Herigstad, M., Faull, O., Hayen, A., Evans, E., Hardinge, M., Wiech, K. & Pattinson, K. (2017) Treating breathlessness via the brain: changes in brain activity over a course of pulmonary rehabilitation. European Respiratory Journal, 50 (3) 1701029. 
 
@@ -41,5 +41,7 @@ Herigstad, M., Balanos, G. & Robbins, P.A. (2007) Can human cardiovascular regul
 Liu, C., Smith, T.G., Balanos, G.M., Brooks, J., Crosby, A., Herigstad, M., Dorrington, K.L. & Robbins, P.A. (2007) Lack of involvement of the autonomic nervous system in early ventilatory and pulmonary vascular acclimatization to hypoxia in humans. Journal of Physiology, 579: 215-225. 
 
 ## Preprints (not published elsewhere)
+
+Finnegan, S.L., Harrison, O.K., Booth, S., Dennis, A., Ezra, M., Harmer, C.J., Herigstad, M., Guillaume, B., Nichols, T.E., Rahman, N.M., Reinecke, A., Renaud, O. & Pattinson, K. D-cycloserine modulates breathlessness related brain activity over pulmonary rehabilitation. Medrxiv. doi: 10.1101/2021.06.24.21259306
 
 Herigstad, M., Granados-Aparici, S., Pacey, A., Paley, M. & Reynolds, S. Imaging seminiferous tubules - a 9.4TMRI mouse model. Biorxiv. doi: 10.1101/155762 
