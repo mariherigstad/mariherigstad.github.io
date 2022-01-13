@@ -42,6 +42,8 @@ Liu, C., Smith, T.G., Balanos, G.M., Brooks, J., Crosby, A., Herigstad, M., Dorr
 
 ## Preprints (not published elsewhere)
 
+Matias, F.R., Groves, I. & Herigstad, M. Impact of carbon monoxide on early cardiac development in an avian model. Biorxiv. doi: 10.1101/2021.12.22.473783
+
 Finnegan, S.L., Harrison, O.K., Booth, S., Dennis, A., Ezra, M., Harmer, C.J., Herigstad, M., Guillaume, B., Nichols, T.E., Rahman, N.M., Reinecke, A., Renaud, O. & Pattinson, K. D-cycloserine modulates breathlessness related brain activity over pulmonary rehabilitation. Medrxiv. doi: 10.1101/2021.06.24.21259306
 
 Herigstad, M., Granados-Aparici, S., Pacey, A., Paley, M. & Reynolds, S. Imaging seminiferous tubules - a 9.4TMRI mouse model. Biorxiv. doi: 10.1101/155762 
