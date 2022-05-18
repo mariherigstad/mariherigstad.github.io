@@ -3,7 +3,7 @@ layout: page
 title: About
 redirect_from: "/"
 ---
-The Herigstad Lab is based in the Department of Biosciences and Chemistry at Sheffield Hallam University. The group's primary research interest is the effect of low levels of carbon monoxide exposure, as might be encountered through air pollution or cigarette smoke, on physiological function and pathophysiology development. We are particularly interested in carbon monoxide effects on vascular function, neurocognitive function and foetal development. 
+The Herigstad Lab is based in the Department of Biosciences and Chemistry at Sheffield Hallam University. The group's primary research interest is the effect of low levels of carbon monoxide exposure, as might be encountered through air pollution or cigarette smoke, on physiological function and pathophysiology development. We are particularly interested in carbon monoxide effects on vascular function, neurocognitive function and foetal development. Our ultimate aim is to better understand how such small doses of carbon monoxide can affect public health.
 
 ## Contact
   
