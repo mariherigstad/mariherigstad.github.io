@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New paper: Low-level CO exposure affects BOLD fMRI response"
+title: "Paper: Low-level CO exposure affects BOLD fMRI response"
 date: 2019-11-14
 ---
 
