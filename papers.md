@@ -2,7 +2,10 @@
 layout: page
 title: Papers
 ---
-Finnegan, S., Faull, O., Harmer, C., Herigstad, M., Rahman, N., Reinecke, A. & Pattinson, K. (2021) Breathlessness in COPD: linking symptom clusters with brain activity. Accepted at European Respiratory Journal.
+
+Finnegan, S.L., Harrison, O.K., Booth, S., Dennis, A., Ezra, M., Harmer, C.J., Herigstad, M., Guillaume, B., Nichols, T.E., Rahman, N.M., Reinecke, A., Renaud, O. & Pattinson, K. (2022) The effect of D-cycloserine on brain processing of breathlessness over pulmonary rehabilitation - an experimental medicine study. Accepted at ERJ Open Research.
+
+Finnegan, S., Faull, O., Harmer, C., Herigstad, M., Rahman, N., Reinecke, A. & Pattinson, K. (2021) Breathlessness in COPD: linking symptom clusters with brain activity. 2021 58: 2004099
 
 Bendell, C., Moosavi, S. & Herigstad, M. (2019) Low-level carbon monoxide exposure affects BOLD fMRI. Journal of Cerebral Blood Flow & Metabolism. 40 (11), 2215-2224.
 
@@ -41,6 +44,8 @@ Herigstad, M., Balanos, G. & Robbins, P.A. (2007) Can human cardiovascular regul
 Liu, C., Smith, T.G., Balanos, G.M., Brooks, J., Crosby, A., Herigstad, M., Dorrington, K.L. & Robbins, P.A. (2007) Lack of involvement of the autonomic nervous system in early ventilatory and pulmonary vascular acclimatization to hypoxia in humans. Journal of Physiology, 579: 215-225. 
 
 ## Preprints (not published elsewhere)
+
+Wilson, L.A. & Herigstad, M. Impact of carbon monoxide on neural activation during a reaction time task. Biorxiv. doi: 10.1101/2023.01.17.524443
 
 Matias, F.R., Groves, I. & Herigstad, M. Impact of carbon monoxide on early cardiac development in an avian model. Biorxiv. doi: 10.1101/2021.12.22.473783
 
