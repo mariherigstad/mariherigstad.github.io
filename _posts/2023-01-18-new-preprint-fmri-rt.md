@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New preprint: Low-level CO, reaction time and neural activation"
+title: "Preprint: Low-level CO, reaction time and neural activation"
 date: 2023-01-18
 date: 2023-01-18
 ---
