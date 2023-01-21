@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New preprint: CO and early cardiac development"
+title: "Preprint: CO and early cardiac development"
 date: 2022-01-14
 date: 2022-01-14
 ---
