@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "News: new PhD candidate"
+title: "Welcome to our new PhD candidate"
 date: 2021-02-01
 ---
 Our new PhD student, Lucie Wilson, have started her work in the lab this week. She'll be working on low-level carbon monoxide impact on the human brain for her thesis. 
