@@ -24,5 +24,5 @@ Other accounts: <a href="http://scholar.google.co.uk/citations?user=JAD2n04AAAAJ
 </table>
 
 ## Funded by
-<a href="http://www.coresearchtrust.org/"><img src="/assets/CORT_logo.jpg" alt="CO Research Trust" align="middle" style="width: 100px;" /></a>
+<a href="http://www.coresearchtrust.org/"><img src="/assets/CORT_logo.jpg" alt="CO Research Trust" align="middle" style="width: 200px;" /></a>
  
