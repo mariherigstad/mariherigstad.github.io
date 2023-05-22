@@ -17,7 +17,7 @@ We have been awarded a major grant from the CO Research Trust to investigate the
 ## Team
 We are looking to recruit a postdoctoral researcher and a PhD student to work on this project. Interested individuals are encouraged to get in touch: m.herigstad(at)shu.ac.uk
 
-Research team: Dr Mari Herigstad, Professor Marysia Placzek, Dr Chris Morris, Mrs Isabella Myers, Dr Liam Ridge, Dr Prachi Stafford
+Research team: Dr Mari Herigstad, Professor Marysia Placzek, Dr Chris Morris, Mrs Isabella Myers, Dr Liam Ridge & Dr Prachi Stafford.
 
 
 
