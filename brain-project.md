@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CORes Brain Project
+title: CO Brain Project
 ---
 
 We have been awarded a major grant from the CO Research Trust to investigate the effects of low-level CO on the adult and developing brain. Studies show that the brain is especially vulnerable to CO, which can lead to cognitive and neuropsychiatric problems, and potentially contribute to diseases including stroke and dementia. The vulnerability to CO is not set but rather changes with age; the embryo is particularly at risk with low-level CO linked to birth defects. Yet current studies have focused on the impact of exposure to acute, high levels, and the mechanism by which low-level CO causes health issues in adults and embryos over time is not known. The aim of this study is to address this outstanding question, and determine the effects of CO at exposures ranging from 0-9 ppm on the brain, looking at the whole scale from cells and tissues, to organ/organism function and structure. 
