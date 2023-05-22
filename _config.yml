@@ -25,8 +25,8 @@ github:
 # This is the list of pages to include in the header of the website.
 pages_list:       
   About: '/about/'
-  News: '/news'
   Brain Project: '/brain-project'
+  News: '/news'
   Research: '/research/'
   Papers: '/papers/'
   People: '/people/'
