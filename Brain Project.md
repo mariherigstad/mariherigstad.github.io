@@ -27,6 +27,8 @@ Dr Liam Ridge
 
 Dr Prachi Stafford
 
+<b>We are looking to recruit a postdoctoral researcher and a PhD student to work on this project. Interested individuals are encouraged to get in touch with me!</b>
+
 ## Funded by
 <a href="http://www.coresearchtrust.org/"><img src="/assets/CORT_logo.jpg" alt="CO Research Trust" align="middle" style="width: 250px;" /></a>
 
