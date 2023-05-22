@@ -15,19 +15,11 @@ We have been awarded a major grant from the CO Research Trust to investigate the
 <a href="https://yorkshirebylines.co.uk/news/health/sheffield-hallam-university-critical-study-to-investigate-effects-of-low-level-exposure-of-carbon-monoxide-on-baby-and-adult-brains/">Yorkshire Bylines story</a>
 
 ## Team
-Dr Mari Herigstad
+We are looking to recruit a postdoctoral researcher and a PhD student to work on this project. Interested individuals are encouraged to get in touch: m.herigstad(at)shu.ac.uk
 
-Professor Marysia Placzek
+Research team: Dr Mari Herigstad, Professor Marysia Placzek, Dr Chris Morris, Mrs Isabella Myers, Dr Liam Ridge, Dr Prachi Stafford
 
-Dr Chris Morris
 
-Mrs Isabella Myers
-
-Dr Liam Ridge
-
-Dr Prachi Stafford
-
-<b>We are looking to recruit a postdoctoral researcher and a PhD student to work on this project. Interested individuals are encouraged to get in touch: m.herigstad(at)shu.ac.uk</b>
 
 ## Funded by
 <a href="http://www.coresearchtrust.org/"><img src="/assets/CORT_logo.jpg" alt="CO Research Trust" align="middle" style="width: 250px;" /></a>
