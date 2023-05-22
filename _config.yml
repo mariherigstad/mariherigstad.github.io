@@ -26,7 +26,7 @@ github:
 pages_list:       
   About: '/about/'
   News: '/news'
-  Study: '/CORes Brain Project'
+  CORes Brain Project: '/CORes Brain Project'
   Research: '/research/'
   Papers: '/papers/'
   People: '/people/'
