@@ -25,11 +25,13 @@ github:
 # This is the list of pages to include in the header of the website.
 pages_list:       
   About: '/about/'
+  News: '/news'
+  Study: '/CORes Brain Project'
   Research: '/research/'
   Papers: '/papers/'
   People: '/people/'
-  Study: '/study'
-  News: '/news'
+  
+  
 
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
