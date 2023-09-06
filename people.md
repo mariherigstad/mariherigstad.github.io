@@ -8,7 +8,7 @@ Lucie Wilson is a PhD student working on the effect of CO on the human brain, us
 
 Simon Clarke is a PhD student working on the effect of low-level CO on mitochondrial function and cardiac development. He started his PhD in October 2022.
 
-Master students in the lab are looking at cardiac development under conditions of CO exposure. 
+Master students in the lab are looking at the impact of CO exposure on cancer cells and extracellular vesicles. 
 
 We take on BSc students working on their final year projects. Projects have included investigating the impact of carbon monoxide on cancer cell growth and on cardiac development, developing an exposure chamber for carbon monoxide exposure of tissues and cells, analysing the impact of carbon monoxide on reaction time, autonomic control and cognitive processing, and assessing CO variation in ambient air.
 
