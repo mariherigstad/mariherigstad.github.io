@@ -12,5 +12,4 @@ Carbon monoxide levels in this study was 4ppm, 9ppm and 18ppm, all of which are 
 
 The work was supported by the Erasmus programme, the CO Research Trust and Kane Ltd. 
 
-<a href="http://www.coresearchtrust.org/"><img src="/assets/CORT_logo.jpg" alt="CO Research Trust" align="middle" style="width: 200px;" /></a>
-<a href="http://www.kane.co.uk/"><img src="/assets/kane_logo.jpg" alt="Kane Ltd" align="middle" style="width: 100px;" /></a>
+<a href="http://www.coresearchtrust.org/"><img src="/assets/CORT_logo.jpg" alt="CO Research Trust" align="middle" style="width: 200px;" /></a> <a href="http://www.kane.co.uk/"><img src="/assets/kane_logo.jpg" alt="Kane Ltd" align="middle" style="width: 100px;" /></a>
