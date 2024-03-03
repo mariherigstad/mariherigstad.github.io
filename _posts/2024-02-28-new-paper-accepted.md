@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paper: Carbon monoxide affects early cardiac development in an avian model."
+title: "Paper: CO affects early cardiac development in an avian model."
 date: 2024-02-28
 ---
 
