@@ -2,6 +2,7 @@
 layout: page
 title: People
 ---
+The CO Research Group is headed by Dr Mari Herigstad, senior lecturer in the Department of Biosciences and Chemistry at Sheffield Hallam University. 
 
 ## Current members
 Elsie Place is a Research Fellow investigating the effect of low-level CO on brain development. She started her work in the lab in February 2024.
