@@ -2,7 +2,7 @@
 layout: page
 title: Papers
 ---
-Matias, F.R., Groves, I. Durrans, J. & Herigstad, M. (2024) Impact of carbon monoxide on early cardiac development in an avian model. Accepted at Birth Defects Research. Biorxiv. doi: 10.1101/2021.12.22.473783
+Matias, F. R., Groves, I., Durrans, J., & Herigstad, M. (2024). Carbon monoxide affects early cardiac development in an avian model. Birth Defects Research, 116(3), e2330. https://doi.org/10.1002/bdr2.2330
 
 Finnegan, S.L., Harrison, O.K., Booth, S., Dennis, A., Ezra, M., Harmer, C.J., Herigstad, M., Guillaume, B., Nichols, T.E., Rahman, N.M., Reinecke, A., Renaud, O. & Pattinson, K. (2023) The effect of D-cycloserine on brain processing of breathlessness over pulmonary rehabilitation - an experimental medicine study. Accepted at ERJ Open Research.
 
