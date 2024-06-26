@@ -14,9 +14,13 @@ If you are interested in our work and want to get involved, please do not hesita
 <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/mari-herigstad">Dr Mari Herigstad</a><br>
 Address: Owen Building, Sheffield Hallam University<br>
 Contact: <m.herigstad@shu.ac.uk>, +44 (0)114 225 5236<br>
-Twitter: <a href="https://twitter.com/Dr_Mari">www.twitter.com/Dr_Mari</a><br>
-Personal Blog: <a href="https://mariherigstad.wordpress.com">Breathing, Blood and Brains</a><br>
-Other accounts: <a href="http://scholar.google.co.uk/citations?user=JAD2n04AAAAJ&hl=en">google scholar</a>, <a href="https://www.researchgate.net/profile/Mari_Herigstad">researchgate</a> and <a href="https://publons.com/author/1287147/mari-herigstad#profile">publons.</a>
+
+Online and social media: 
+<a href="https://twitter.com/Dr_Mari">twitter</a>, <a href="https://mariherigstad.wordpress.com">blog</a>, 
+<a href="http://scholar.google.co.uk/citations?user=JAD2n04AAAAJ&hl=en">google scholar</a>, <a href="https://www.researchgate.net/profile/Mari_Herigstad">researchgate</a>, <a href="https://www.linkedin.com/in/mari-herigstad-0a433813/">linkedin</a> and <a href="https://publons.com/author/1287147/mari-herigstad#profile">publons.</a>
+
+BMRC contacts: <a href="https://www.shu.ac.uk/biomolecular-sciences-research-centre">Website with email link</a>, <a href="https://x.com/BMRCSheffHallam">Twitter</a> and <a href="https://www.linkedin.com/in/bmrc-biomedical-research-centre-a4344847/">linkedin</a>.
+
 
 <table>
   <tr>
