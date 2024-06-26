@@ -2,13 +2,13 @@
 layout: page
 title: Papers
 ---
-Matias, F. R., Groves, I., Durrans, J., & Herigstad, M. (2024). Carbon monoxide affects early cardiac development in an avian model. Birth Defects Research, 116(3), e2330. https://doi.org/10.1002/bdr2.2330
+Matias, F. R., Groves, I., Durrans, J., & Herigstad, M. (2024). Carbon monoxide affects early cardiac development in an avian model. Birth Defects Research, 116(3), e2330. 
 
-Finnegan, S.L., Harrison, O.K., Booth, S., Dennis, A., Ezra, M., Harmer, C.J., Herigstad, M., Guillaume, B., Nichols, T.E., Rahman, N.M., Reinecke, A., Renaud, O. & Pattinson, K. (2023) The effect of D-cycloserine on brain processing of breathlessness over pulmonary rehabilitation - an experimental medicine study. Accepted at ERJ Open Research.
+Finnegan, S.L., Harrison, O.K., Booth, S., Dennis, A., Ezra, M., Harmer, C.J., Herigstad, M., Guillaume, B., Nichols, T.E., Rahman, N.M., Reinecke, A., Renaud, O. & Pattinson, K. (2023) The effect of D-cycloserine on brain processing of breathlessness over pulmonary rehabilitation - an experimental medicine study. ERJ Open Research, 9: 00479-2022.
 
-Finnegan, S., Faull, O., Harmer, C., Herigstad, M., Rahman, N., Reinecke, A. & Pattinson, K. (2021) Breathlessness in COPD: linking symptom clusters with brain activity. 2021 58: 2004099
+Finnegan, S., Faull, O., Harmer, C., Herigstad, M., Rahman, N., Reinecke, A. & Pattinson, K. (2021) Breathlessness in COPD: linking symptom clusters with brain activity. European Respiratory Journal, 58: 2004099.
 
-Bendell, C., Moosavi, S. & Herigstad, M. (2019) Low-level carbon monoxide exposure affects BOLD fMRI. Journal of Cerebral Blood Flow & Metabolism. 40 (11), 2215-2224.
+Bendell, C., Moosavi, S. & Herigstad, M. (2019) Low-level carbon monoxide exposure affects BOLD fMRI. Journal of Cerebral Blood Flow & Metabolism, 40 (11), 2215-2224.
 
 Herigstad, M., Faull, O., Hayen, A., Evans, E., Hardinge, M., Wiech, K. & Pattinson, K. (2017) Treating breathlessness via the brain: changes in brain activity over a course of pulmonary rehabilitation. European Respiratory Journal, 50 (3) 1701029. 
 
