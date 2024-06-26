@@ -14,7 +14,6 @@ If you are interested in our work and want to get involved, please do not hesita
 <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/mari-herigstad">Dr Mari Herigstad</a><br>
 Address: Owen Building, Sheffield Hallam University<br>
 Contact: <m.herigstad@shu.ac.uk>, +44 (0)114 225 5236<br>
-
 Online and social media: 
 <a href="https://twitter.com/Dr_Mari">twitter</a>, <a href="https://mariherigstad.wordpress.com">blog</a>, 
 <a href="http://scholar.google.co.uk/citations?user=JAD2n04AAAAJ&hl=en">google scholar</a>, <a href="https://www.researchgate.net/profile/Mari_Herigstad">researchgate</a>, <a href="https://www.linkedin.com/in/mari-herigstad-0a433813/">linkedin</a> and <a href="https://publons.com/author/1287147/mari-herigstad#profile">publons.</a>
