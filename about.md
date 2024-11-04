@@ -9,7 +9,7 @@ If you are interested in our work and want to get involved, please do not hesita
 
 ## Contact
   
-<img src="/assets/mariherigstadportrait.jpg" alt="Mari Herigstad" align="middle" style="width: 200px;"/> 
+<img src="/assets/mariherigstadportrait2.jpg" alt="Mari Herigstad" align="middle" style="width: 200px;"/> 
 
 <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/mari-herigstad">Dr Mari Herigstad</a><br>
 Address: Owen Building, Sheffield Hallam University<br>
