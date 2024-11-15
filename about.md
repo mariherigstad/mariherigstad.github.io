@@ -16,6 +16,7 @@ Address: Owen Building, Sheffield Hallam University<br>
 Contact: <m.herigstad@shu.ac.uk>, +44 (0)114 225 5236<br>
 Online and social media: 
 <a href="https://www.instagram.com/carbonmonoxideresearch/">instagram</a>, <a href="https://www.threads.net/@carbonmonoxideresearch">threads</a>, <a href="https://twitter.com/Dr_Mari">x</a> and <a href="https://mariherigstad.wordpress.com">blog</a>.
+
 BMRC: <a href="https://www.shu.ac.uk/biomolecular-sciences-research-centre">website</a>, <a href="https://x.com/BMRCSheffHallam">Twitter</a> and <a href="https://www.linkedin.com/in/bmrc-biomedical-research-centre-a4344847/">linkedin</a>.
 
 
