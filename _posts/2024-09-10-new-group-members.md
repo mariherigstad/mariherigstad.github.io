@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "new members"
+title: "New members"
 date: 2024-10-01
 ---
 
