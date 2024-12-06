@@ -25,6 +25,8 @@ Online and social media profiles:
   </tr>
 </table>
 
+Additional information:
+
 ## Funded by
 <a href="http://www.coresearchtrust.org/"><img src="/assets/CORT_logo.jpg" alt="CO Research Trust" align="middle" style="width: 200px;" /></a>
 
