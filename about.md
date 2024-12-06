@@ -3,7 +3,7 @@ layout: page
 title: About
 redirect_from: "/"
 ---
-The Sheffield CO Research Group (SCORe, Herigstad Lab) is based in the Department of Biosciences and Chemistry at Sheffield Hallam University. The group's primary research interest is the effect of low levels of carbon monoxide exposure, as might be encountered through air pollution or cigarette smoke, on physiological function and pathophysiology development. We are particularly interested in carbon monoxide effects on vascular function, neurocognitive function and foetal development. Our ultimate aim is to better understand how such small doses of carbon monoxide can affect public health. 
+The Sheffield CO Research Group (SCORe, Herigstad Lab) is based in the School of Biosciences and Chemistry at Sheffield Hallam University. The group's primary research interest is the effect of low levels of carbon monoxide exposure, as might be encountered through air pollution or cigarette smoke, on physiological function and pathophysiology development. We are particularly interested in carbon monoxide effects on vascular function, neurocognitive function and foetal development. Our ultimate aim is to better understand how such small doses of carbon monoxide can affect public health. 
 
 If you are interested in our work and want to get involved, please do not hesitate to contact us (details below).  
 
