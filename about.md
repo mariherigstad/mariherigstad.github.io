@@ -16,7 +16,7 @@ Address: Owen Building, Sheffield Hallam University<br>
 Contact: <m.herigstad@shu.ac.uk>, +44 (0)114 225 5236<br>
 Online and social media profiles: 
 
-<a href="https://www.instagram.com/carbonmonoxideresearch/"><img src="/assets/instagramlogo.jpeg" alt="Instagram" style="width: 50px;"/></a> <a href="https://www.threads.net/@carbonmonoxideresearch"><img src="/assets/threadslogo.jpeg" alt="Threads" style="width: 50px;"/></a>, <a href="https://bsky.app/profile/herigstad.bsky.social"><img src="/assets/blueskylogo.jpeg" alt="Bluesky" style="width: 50px;"/></a> <a href="https://mariherigstad.wordpress.com"><img src="/assets/wordpresslogo.jpeg" alt="Blog" style="width: 50px;"/></a>.
+<a href="https://www.instagram.com/carbonmonoxideresearch/"><img src="/assets/instagramlogo.jpg" alt="Instagram" style="width: 50px;"/></a> <a href="https://www.threads.net/@carbonmonoxideresearch"><img src="/assets/threadslogo.jpg" alt="Threads" style="width: 50px;"/></a>, <a href="https://bsky.app/profile/herigstad.bsky.social"><img src="/assets/blueskylogo.jpg" alt="Bluesky" style="width: 50px;"/></a> <a href="https://mariherigstad.wordpress.com"><img src="/assets/wordpresslogo.jpg" alt="Blog" style="width: 50px;"/></a>.
 
 
 <table>
