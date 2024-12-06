@@ -14,18 +14,13 @@ If you are interested in our work and want to get involved, please do not hesita
 <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/mari-herigstad">Dr Mari Herigstad</a><br>
 Address: Owen Building, Sheffield Hallam University<br>
 Contact: <m.herigstad@shu.ac.uk>, +44 (0)114 225 5236<br>
+
 Online and social media profiles: 
 
 <a href="https://www.instagram.com/carbonmonoxideresearch/"><img src="/assets/instagramlogo.jpg" alt="Instagram" style="height: 50px;"/></a> <a href="https://www.threads.net/@carbonmonoxideresearch"><img src="/assets/threadslogo.jpg" alt="Threads" style="height: 50px;"/></a> <a href="https://bsky.app/profile/herigstad.bsky.social"><img src="/assets/blueskylogo.jpg" alt="Bluesky" style="height: 50px;"/></a> <a href="https://mariherigstad.wordpress.com"><img src="/assets/wordpresslogo.jpg" alt="Blog" style="height: 50px;"/></a>
 
-
-<table>
-  <tr>
-    <td><a href="https://mariherigstad.github.io/research/"><img src="/assets/lab_logo.jpg" alt="Herigstad Lab" align="middle" style="width: 200px;" /></a> </td>
-    <td><a href="https://www.shu.ac.uk/research/specialisms/biomolecular-sciences-research-centre"><img src="/assets/BMRC_logo.jpg" alt="BMRC" align="middle" style="width: 200px;" /></a> </td>
-  </tr>
-</table>
-
 ## Funded by
 <a href="http://www.coresearchtrust.org/"><img src="/assets/CORT_logo.jpg" alt="CO Research Trust" align="middle" style="width: 200px;" /></a>
- 
+
+ ## Affiliation
+ <a href="https://www.shu.ac.uk/research/specialisms/biomolecular-sciences-research-centre"><img src="/assets/BMRC_logo.jpg" alt="BMRC" align="middle" style="width: 200px;" /></a> 
