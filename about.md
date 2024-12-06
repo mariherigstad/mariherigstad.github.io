@@ -18,8 +18,6 @@ Online and social media profiles:
 
 <a href="https://www.instagram.com/carbonmonoxideresearch/"><img src="/assets/instagramlogo.jpeg" alt="Instagram" style="width: 50px;"/></a> <a href="https://www.threads.net/@carbonmonoxideresearch"><img src="/assets/threadslogo.jpeg" alt="Threads" style="width: 50px;"/></a>, <a href="https://bsky.app/profile/herigstad.bsky.social"><img src="/assets/blueskylogo.jpeg" alt="Bluesky" style="width: 50px;"/></a> <a href="https://mariherigstad.wordpress.com"><img src="/assets/wordpresslogo.jpeg" alt="Blog" style="width: 50px;"/></a>.
 
-BMRC: <a href="https://www.shu.ac.uk/biomolecular-sciences-research-centre">website</a>, <a href="https://x.com/BMRCSheffHallam">Twitter</a> and <a href="https://www.linkedin.com/in/bmrc-biomedical-research-centre-a4344847/">linkedin</a>.
-
 
 <table>
   <tr>
