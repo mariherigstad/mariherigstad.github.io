@@ -45,6 +45,8 @@ Herigstad, M., Balanos, G. & Robbins, P.A. (2007) Can human cardiovascular regul
 Liu, C., Smith, T.G., Balanos, G.M., Brooks, J., Crosby, A., Herigstad, M., Dorrington, K.L. & Robbins, P.A. (2007) Lack of involvement of the autonomic nervous system in early ventilatory and pulmonary vascular acclimatization to hypoxia in humans. Journal of Physiology, 579: 215-225. 
 
 ## Preprints (not published elsewhere)
+Place, E., Wareing, H. & Herigstad, M. Carbon monoxide exposure in pregnant women in the UK – results from the IPPCO study. Medrxiv. doi: 10.1101/2025.01.07.25320119v1
+
 Wilson, L.A. & Herigstad, M. Impact of carbon monoxide on neural activation during a reaction time task. Biorxiv. doi: 10.1101/2023.01.17.524443
 
 Herigstad, M., Granados-Aparici, S., Pacey, A., Paley, M. & Reynolds, S. Imaging seminiferous tubules - a 9.4TMRI mouse model. Biorxiv. doi: 10.1101/155762 
