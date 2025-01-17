@@ -47,7 +47,7 @@ Liu, C., Smith, T.G., Balanos, G.M., Brooks, J., Crosby, A., Herigstad, M., Dorr
 ## Preprints (not published elsewhere)
 Place, E., Wareing, H. & Herigstad, M. Carbon monoxide exposure in pregnant women in the UK – results from the IPPCO study. Medrxiv. doi: 10.1101/2025.01.07.25320119v1
 
-Bonsall, S., Issitt, T., Peake, N., Herigstad, M., Webber, J., Haywood-Small, S. (2024) Asbestos Mineral Fibre Exposure Significantly Affects Volatile Organic Compound Profiles of Mesothelial Cell Lines In Vitro. Biorxiv. doi: 2024.07.08.602545. 
+Bonsall, S., Issitt, T., Peake, N., Herigstad, M., Webber, J., Haywood-Small, S. Asbestos Mineral Fibre Exposure Significantly Affects Volatile Organic Compound Profiles of Mesothelial Cell Lines In Vitro. Biorxiv. doi: 2024.07.08.602545. 
 
 Wilson, L.A. & Herigstad, M. Impact of carbon monoxide on neural activation during a reaction time task. Biorxiv. doi: 10.1101/2023.01.17.524443
 
